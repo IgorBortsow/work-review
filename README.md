@@ -1,3 +1,3 @@
 #work-review
 
-![screen](screen.png)?
+![screen](screen.png)
